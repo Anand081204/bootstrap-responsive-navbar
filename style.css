@@ -1,0 +1,7 @@
+.banner-container{
+    background-image: url(img/banner-3.png);
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+}
